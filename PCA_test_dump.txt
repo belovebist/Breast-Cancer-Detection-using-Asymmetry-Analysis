@@ -1,0 +1,379 @@
+Loading images from images...
+Images loaded successfully !
+ 
+For 1 number of principal components...
+ 
+Extracting PCA features...
+Features extracted successfully !
+ 
+Training Support Vector Machine Classifier...
+SVM trained successfully !
+ 
+Testing the Classifier...
+
+result = 
+
+            ConfusionMatrix: [1x1 struct]
+                   Accuracy: 0.6250
+                Sensitivity: 0.9444
+                Specificity: 0.2143
+                  Precision: 0.6071
+                 Prevalence: 0.5625
+                  ErrorRate: 0.3750
+    PositivePredictiveValue: 0.6071
+    NegativePredictiveValue: 0.7500
+              NullErrorRate: 0.1250
+                    FallOut: 0.7857
+         FalseDiscoveryRate: 0.3929
+          FalseOmissionRate: 0.2500
+          FalseNegativeRate: 0.0556
+                    F1Score: 0.7391
+
+ 
+For 2 number of principal components...
+ 
+Extracting PCA features...
+Features extracted successfully !
+ 
+Training Support Vector Machine Classifier...
+SVM trained successfully !
+ 
+Testing the Classifier...
+
+result = 
+
+            ConfusionMatrix: [1x1 struct]
+                   Accuracy: 0.6562
+                Sensitivity: 0.5556
+                Specificity: 0.7857
+                  Precision: 0.7692
+                 Prevalence: 0.5625
+                  ErrorRate: 0.3438
+    PositivePredictiveValue: 0.7692
+    NegativePredictiveValue: 0.5789
+              NullErrorRate: 0.4062
+                    FallOut: 0.2143
+         FalseDiscoveryRate: 0.2308
+          FalseOmissionRate: 0.4211
+          FalseNegativeRate: 0.4444
+                    F1Score: 0.6452
+
+ 
+For 3 number of principal components...
+ 
+Extracting PCA features...
+Features extracted successfully !
+ 
+Training Support Vector Machine Classifier...
+SVM trained successfully !
+ 
+Testing the Classifier...
+
+result = 
+
+            ConfusionMatrix: [1x1 struct]
+                   Accuracy: 0.8125
+                Sensitivity: 0.8333
+                Specificity: 0.7857
+                  Precision: 0.8333
+                 Prevalence: 0.5625
+                  ErrorRate: 0.1875
+    PositivePredictiveValue: 0.8333
+    NegativePredictiveValue: 0.7857
+              NullErrorRate: 0.4375
+                    FallOut: 0.2143
+         FalseDiscoveryRate: 0.1667
+          FalseOmissionRate: 0.2143
+          FalseNegativeRate: 0.1667
+                    F1Score: 0.8333
+
+ 
+For 4 number of principal components...
+ 
+Extracting PCA features...
+Features extracted successfully !
+ 
+Training Support Vector Machine Classifier...
+SVM trained successfully !
+ 
+Testing the Classifier...
+
+result = 
+
+            ConfusionMatrix: [1x1 struct]
+                   Accuracy: 0.7500
+                Sensitivity: 0.7222
+                Specificity: 0.7857
+                  Precision: 0.8125
+                 Prevalence: 0.5625
+                  ErrorRate: 0.2500
+    PositivePredictiveValue: 0.8125
+    NegativePredictiveValue: 0.6875
+              NullErrorRate: 0.5000
+                    FallOut: 0.2143
+         FalseDiscoveryRate: 0.1875
+          FalseOmissionRate: 0.3125
+          FalseNegativeRate: 0.2778
+                    F1Score: 0.7647
+
+ 
+For 5 number of principal components...
+ 
+Extracting PCA features...
+Features extracted successfully !
+ 
+Training Support Vector Machine Classifier...
+SVM trained successfully !
+ 
+Testing the Classifier...
+
+result = 
+
+            ConfusionMatrix: [1x1 struct]
+                   Accuracy: 0.7500
+                Sensitivity: 0.7222
+                Specificity: 0.7857
+                  Precision: 0.8125
+                 Prevalence: 0.5625
+                  ErrorRate: 0.2500
+    PositivePredictiveValue: 0.8125
+    NegativePredictiveValue: 0.6875
+              NullErrorRate: 0.5000
+                    FallOut: 0.2143
+         FalseDiscoveryRate: 0.1875
+          FalseOmissionRate: 0.3125
+          FalseNegativeRate: 0.2778
+                    F1Score: 0.7647
+
+ 
+For 6 number of principal components...
+ 
+Extracting PCA features...
+Features extracted successfully !
+ 
+Training Support Vector Machine Classifier...
+SVM trained successfully !
+ 
+Testing the Classifier...
+
+result = 
+
+            ConfusionMatrix: [1x1 struct]
+                   Accuracy: 0.7188
+                Sensitivity: 0.7222
+                Specificity: 0.7143
+                  Precision: 0.7647
+                 Prevalence: 0.5625
+                  ErrorRate: 0.2812
+    PositivePredictiveValue: 0.7647
+    NegativePredictiveValue: 0.6667
+              NullErrorRate: 0.4688
+                    FallOut: 0.2857
+         FalseDiscoveryRate: 0.2353
+          FalseOmissionRate: 0.3333
+          FalseNegativeRate: 0.2778
+                    F1Score: 0.7429
+
+ 
+For 7 number of principal components...
+ 
+Extracting PCA features...
+Features extracted successfully !
+ 
+Training Support Vector Machine Classifier...
+SVM trained successfully !
+ 
+Testing the Classifier...
+
+result = 
+
+            ConfusionMatrix: [1x1 struct]
+                   Accuracy: 0.7188
+                Sensitivity: 0.7222
+                Specificity: 0.7143
+                  Precision: 0.7647
+                 Prevalence: 0.5625
+                  ErrorRate: 0.2812
+    PositivePredictiveValue: 0.7647
+    NegativePredictiveValue: 0.6667
+              NullErrorRate: 0.4688
+                    FallOut: 0.2857
+         FalseDiscoveryRate: 0.2353
+          FalseOmissionRate: 0.3333
+          FalseNegativeRate: 0.2778
+                    F1Score: 0.7429
+
+ 
+For 8 number of principal components...
+ 
+Extracting PCA features...
+Features extracted successfully !
+ 
+Training Support Vector Machine Classifier...
+SVM trained successfully !
+ 
+Testing the Classifier...
+
+result = 
+
+            ConfusionMatrix: [1x1 struct]
+                   Accuracy: 0.7500
+                Sensitivity: 0.7222
+                Specificity: 0.7857
+                  Precision: 0.8125
+                 Prevalence: 0.5625
+                  ErrorRate: 0.2500
+    PositivePredictiveValue: 0.8125
+    NegativePredictiveValue: 0.6875
+              NullErrorRate: 0.5000
+                    FallOut: 0.2143
+         FalseDiscoveryRate: 0.1875
+          FalseOmissionRate: 0.3125
+          FalseNegativeRate: 0.2778
+                    F1Score: 0.7647
+
+ 
+For 9 number of principal components...
+ 
+Extracting PCA features...
+Features extracted successfully !
+ 
+Training Support Vector Machine Classifier...
+SVM trained successfully !
+ 
+Testing the Classifier...
+
+result = 
+
+            ConfusionMatrix: [1x1 struct]
+                   Accuracy: 0.8125
+                Sensitivity: 0.8333
+                Specificity: 0.7857
+                  Precision: 0.8333
+                 Prevalence: 0.5625
+                  ErrorRate: 0.1875
+    PositivePredictiveValue: 0.8333
+    NegativePredictiveValue: 0.7857
+              NullErrorRate: 0.4375
+                    FallOut: 0.2143
+         FalseDiscoveryRate: 0.1667
+          FalseOmissionRate: 0.2143
+          FalseNegativeRate: 0.1667
+                    F1Score: 0.8333
+
+ 
+For 10 number of principal components...
+ 
+Extracting PCA features...
+Features extracted successfully !
+ 
+Training Support Vector Machine Classifier...
+SVM trained successfully !
+ 
+Testing the Classifier...
+
+result = 
+
+            ConfusionMatrix: [1x1 struct]
+                   Accuracy: 0.8438
+                Sensitivity: 0.8333
+                Specificity: 0.8571
+                  Precision: 0.8824
+                 Prevalence: 0.5625
+                  ErrorRate: 0.1562
+    PositivePredictiveValue: 0.8824
+    NegativePredictiveValue: 0.8000
+              NullErrorRate: 0.4688
+                    FallOut: 0.1429
+         FalseDiscoveryRate: 0.1176
+          FalseOmissionRate: 0.2000
+          FalseNegativeRate: 0.1667
+                    F1Score: 0.8571
+
+ 
+For 11 number of principal components...
+ 
+Extracting PCA features...
+Features extracted successfully !
+ 
+Training Support Vector Machine Classifier...
+SVM trained successfully !
+ 
+Testing the Classifier...
+
+result = 
+
+            ConfusionMatrix: [1x1 struct]
+                   Accuracy: 0.8438
+                Sensitivity: 0.9444
+                Specificity: 0.7143
+                  Precision: 0.8095
+                 Prevalence: 0.5625
+                  ErrorRate: 0.1562
+    PositivePredictiveValue: 0.8095
+    NegativePredictiveValue: 0.9091
+              NullErrorRate: 0.3438
+                    FallOut: 0.2857
+         FalseDiscoveryRate: 0.1905
+          FalseOmissionRate: 0.0909
+          FalseNegativeRate: 0.0556
+                    F1Score: 0.8718
+
+ 
+For 12 number of principal components...
+ 
+Extracting PCA features...
+Features extracted successfully !
+ 
+Training Support Vector Machine Classifier...
+SVM trained successfully !
+ 
+Testing the Classifier...
+
+result = 
+
+            ConfusionMatrix: [1x1 struct]
+                   Accuracy: 0.8438
+                Sensitivity: 0.9444
+                Specificity: 0.7143
+                  Precision: 0.8095
+                 Prevalence: 0.5625
+                  ErrorRate: 0.1562
+    PositivePredictiveValue: 0.8095
+    NegativePredictiveValue: 0.9091
+              NullErrorRate: 0.3438
+                    FallOut: 0.2857
+         FalseDiscoveryRate: 0.1905
+          FalseOmissionRate: 0.0909
+          FalseNegativeRate: 0.0556
+                    F1Score: 0.8718
+
+ 
+For 13 number of principal components...
+ 
+Extracting PCA features...
+Features extracted successfully !
+ 
+Training Support Vector Machine Classifier...
+SVM trained successfully !
+ 
+Testing the Classifier...
+
+result = 
+
+            ConfusionMatrix: [1x1 struct]
+                   Accuracy: 0.8125
+                Sensitivity: 0.8889
+                Specificity: 0.7143
+                  Precision: 0.8000
+                 Prevalence: 0.5625
+                  ErrorRate: 0.1875
+    PositivePredictiveValue: 0.8000
+    NegativePredictiveValue: 0.8333
+              NullErrorRate: 0.3750
+                    FallOut: 0.2857
+         FalseDiscoveryRate: 0.2000
+          FalseOmissionRate: 0.1667
+          FalseNegativeRate: 0.1111
+                    F1Score: 0.8421
+
